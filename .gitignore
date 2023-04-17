@@ -1,2 +1,8 @@
 # autosave
 *.original
+
+# previous MATLAB version
+*.r20*
+
+# temporary files
+slprj/
